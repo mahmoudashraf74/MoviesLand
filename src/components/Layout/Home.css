@@ -1,0 +1,54 @@
+.carousel {
+    background-size: cover;
+    position: relative;
+}
+.carousel-item::before {
+    content: "";
+        background: rgba(13, 20, 26, 0.7);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.carousel-caption {
+    bottom: 30%;
+}
+.carousel-caption h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+    text-transform: uppercase;
+    line-height: 56px;
+}
+.carousel-caption h2 {
+    color: white;
+    margin-bottom: 50px;
+    font-size: 25px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    text-align: center;
+}
+.carousel-caption h2:hover {
+    color: var(--first-color);
+}
+.carousel-caption .getStart {
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+    display: inline-block;
+    padding: 10px 35px 10px 35px;
+    border-radius: 10px;
+    transition: 0.5s;
+    color: #fff;
+    border: 1px solid #85807f;
+
+    background: var(--first-color);
+    text-decoration: none;
+}
+.carousel-caption .getStart:hover {
+    border-color: var(--first-color);
+    background: rgba(255, 255, 255, 0.1);
+}

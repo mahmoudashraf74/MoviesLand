@@ -1,0 +1,11 @@
+.Form .Signbutton {
+    background-color: var(--first-color);
+    border: 1px solid var(--first-color);
+}
+.Form .Signbutton:hover {
+    background-color: var(--thired-color);
+    border-color: var(--first-color);
+}
+.Footer .submit {
+    background-color: var(--first-color);
+}

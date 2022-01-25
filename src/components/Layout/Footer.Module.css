@@ -1,0 +1,62 @@
+footer {
+    background: var(--thired-color);
+    color: white;
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+}
+
+.socialLinks a {
+    margin: 10px;
+    display: inline-block;
+    font-size: 30px;
+    color: #fff;
+}
+
+.socialLinks a:hover {
+    color: var(--first-color);
+}
+
+.socialLinks {
+    margin-bottom: 30px;
+}
+.Links ul {
+    list-style-type: none;
+}
+.Links a {
+    cursor: pointer;
+    display: inline-block;
+    padding: 8px;
+    left: 0;
+    text-decoration: none;
+    color: white;
+    line-height: 2;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.Links a:hover {
+    color: var(--first-color);
+}
+
+.socialLinks .logo {
+    font-size: 40px;
+    text-decoration: none;
+}
+.logo > span {
+    color: white;
+    text-decoration: none;
+    font-family: fantasy;
+}
+
+.logo span:last-child {
+    color: var(--first-color);
+    font: New Tegomin;
+}
+.copyright {
+    margin-top: 60px;
+}
+
+.copyright span {
+    font-weight: bold;
+    color: var(--first-color);
+}

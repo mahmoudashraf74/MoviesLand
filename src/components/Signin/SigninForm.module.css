@@ -1,0 +1,19 @@
+.Form {
+    color: black;
+}
+.submit {
+    background-color: var(--first-color);
+    border: 1px solid var(--first-color);
+}
+.submit:hover {
+    color: var(--first-color);
+    background-color: white;
+    border-color: var(--first-color);
+}
+.Form a {
+    color: var(--first-color);
+}
+
+.Form a:hover {
+    color: black;
+}

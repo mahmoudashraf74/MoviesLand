@@ -1,0 +1,22 @@
+.FirstRow {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    /*  overflow-y: hidden; Hide vertical scrollbar */
+    white-space: nowrap;
+}
+.logo {
+    font-size: 35px;
+    text-decoration: none;
+}
+.logo > span {
+    color: white;
+    text-decoration: none;
+    font-family: fantasy;
+}
+
+.logo span:last-child {
+    color: var(--first-color);
+    font: New Tegomin;
+}
