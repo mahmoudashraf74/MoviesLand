@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MoviesLand/static/css/main.7683005f.chunk.css",
-    "main.js": "/MoviesLand/static/js/main.dbfe1331.chunk.js",
-    "main.js.map": "/MoviesLand/static/js/main.dbfe1331.chunk.js.map",
+    "main.js": "/MoviesLand/static/js/main.77077275.chunk.js",
+    "main.js.map": "/MoviesLand/static/js/main.77077275.chunk.js.map",
     "runtime-main.js": "/MoviesLand/static/js/runtime-main.ab42f47a.js",
     "runtime-main.js.map": "/MoviesLand/static/js/runtime-main.ab42f47a.js.map",
     "static/css/2.818011ed.chunk.css": "/MoviesLand/static/css/2.818011ed.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.2181d46e.chunk.js",
     "static/css/main.7683005f.chunk.css",
-    "static/js/main.dbfe1331.chunk.js"
+    "static/js/main.77077275.chunk.js"
   ]
 }
