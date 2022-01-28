@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/MoviesLand/static/css/main.24ab543d.chunk.css",
-    "main.js": "/MoviesLand/static/js/main.bb038b55.chunk.js",
-    "main.js.map": "/MoviesLand/static/js/main.bb038b55.chunk.js.map",
+    "main.css": "/MoviesLand/static/css/main.dd778d31.chunk.css",
+    "main.js": "/MoviesLand/static/js/main.7e914742.chunk.js",
+    "main.js.map": "/MoviesLand/static/js/main.7e914742.chunk.js.map",
     "runtime-main.js": "/MoviesLand/static/js/runtime-main.ab42f47a.js",
     "runtime-main.js.map": "/MoviesLand/static/js/runtime-main.ab42f47a.js.map",
     "static/css/2.818011ed.chunk.css": "/MoviesLand/static/css/2.818011ed.chunk.css",
-    "static/js/2.b3c2ba00.chunk.js": "/MoviesLand/static/js/2.b3c2ba00.chunk.js",
-    "static/js/2.b3c2ba00.chunk.js.map": "/MoviesLand/static/js/2.b3c2ba00.chunk.js.map",
+    "static/js/2.823275ed.chunk.js": "/MoviesLand/static/js/2.823275ed.chunk.js",
+    "static/js/2.823275ed.chunk.js.map": "/MoviesLand/static/js/2.823275ed.chunk.js.map",
     "index.html": "/MoviesLand/index.html",
     "static/css/2.818011ed.chunk.css.map": "/MoviesLand/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.24ab543d.chunk.css.map": "/MoviesLand/static/css/main.24ab543d.chunk.css.map",
-    "static/js/2.b3c2ba00.chunk.js.LICENSE.txt": "/MoviesLand/static/js/2.b3c2ba00.chunk.js.LICENSE.txt",
-    "static/media/1.5a33a807.jpg": "/MoviesLand/static/media/1.5a33a807.jpg",
-    "static/media/2.6d63a6e3.jpg": "/MoviesLand/static/media/2.6d63a6e3.jpg",
-    "static/media/3.a7e59cc7.jpg": "/MoviesLand/static/media/3.a7e59cc7.jpg",
-    "static/media/4.352f382e.jpg": "/MoviesLand/static/media/4.352f382e.jpg"
+    "static/css/main.dd778d31.chunk.css.map": "/MoviesLand/static/css/main.dd778d31.chunk.css.map",
+    "static/js/2.823275ed.chunk.js.LICENSE.txt": "/MoviesLand/static/js/2.823275ed.chunk.js.LICENSE.txt",
+    "static/media/video.02e94f7f.mp4": "/MoviesLand/static/media/video.02e94f7f.mp4",
+    "static/media/video2.4b07d777.mp4": "/MoviesLand/static/media/video2.4b07d777.mp4",
+    "static/media/video3.7865ae93.mp4": "/MoviesLand/static/media/video3.7865ae93.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.ab42f47a.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.b3c2ba00.chunk.js",
-    "static/css/main.24ab543d.chunk.css",
-    "static/js/main.bb038b55.chunk.js"
+    "static/js/2.823275ed.chunk.js",
+    "static/css/main.dd778d31.chunk.css",
+    "static/js/main.7e914742.chunk.js"
   ]
 }
